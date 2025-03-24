@@ -1,0 +1,59 @@
+a{
+    text-decoration:none;
+    color:rgb(7, 7, 92)
+    
+}
+p{
+    font-size: 18px;
+}
+
+body{
+    background-color:rgba(220,223,232,255);
+    
+}
+a:hover{
+    border:1px solid rgb(248, 243, 243);
+    background-color: rgba(247, 236, 236, 0.8);
+}
+img{
+    max-width: 100%;
+}
+/* home section style */
+.first-section{
+    background-image: url(../imgs/header3.jpg);
+    background-repeat: none;
+    background-size: cover;
+    height:550px;
+}
+.home-text{
+    margin-top: 170px;   
+}
+.home-text h1{
+    font-size: 70px;
+}
+.home-text h3{
+    font-size: 50px;
+}
+.home-text p{
+    font-size: 30px;
+}
+
+   /*skills page  */
+.skill-div{
+    border: 1px solid rgb(2, 2, 56);
+    border-radius:20px;
+    background-color: rgba(183,200,220,255);
+}
+.contact{
+    border: 1px solid rgb(2, 2, 56);
+    border-radius:20px;
+    margin:0 70px;
+    background-color: rgba(183,200,220,255);
+}
+input{
+    width:30vw;
+    background-color:rgba(220,223,232,255) ;
+}
+.message{
+    height:200px;
+}
